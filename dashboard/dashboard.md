@@ -1,6 +1,6 @@
 ## My Dashboard from Looker Studio and Tableau Public
 
-Looker SStudio
+Looker Studio
 https://lookerstudio.google.com/reporting/128cc38b-3264-47e8-ba13-61f3f6946448/page/4u98D
 
 Tableau Public
